@@ -1,0 +1,919 @@
+{
+    "GST for 0%": [
+	    {
+		   "id":1,
+		   "name":"Live asses,mules and hinnies",
+		   "GST" : "0%" 
+		},
+		{
+           "id":2,
+           "name":"Live bovine animals",
+           "GST" : "0%" 		   
+		},
+		{
+		   "id":3,
+		   "name":"Live swine ",
+		   "GST" : "0%"
+		},
+		{
+		   "id":4,
+		   "name":"Live sheep and goats",
+		   "GST" : "0%"
+		},
+	    {
+		   "id":5,
+		   "name":"Live poultry,that is to say,fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",
+		   "GST" : "0%"		   
+		},
+		{
+		   "id":6,
+		   "name":"Other live animal such as Mammals, Birds,Insects",
+		   "GST" : "0%"
+		},
+	    {
+		   "id":7,
+		   "name":"Meat of bovine animals,fresh and chilled",
+		   "GST" : "0%"
+		},
+		{
+		   "id":8,
+		   "name":"Meat of swine, fresh or chilled.",
+		   "GST" : "0%"	   
+		},
+	    {
+		   "id":9,
+		   "name":"Meat of sheep or goats,fresh or chilled",
+		   "GST" : "0%"
+		},
+		{
+		   "id":10,
+		   "name":"Meat of horses, asses, mules or hinnies,fresh or chilled.",
+		   "GST" : "0%"
+		},
+	    {
+		   "id":11,
+		   "name":"Edible offal of bovine animals, swine,sheep, goats,horses, asses, mules or hinnies,fresh or chilled",
+		   "GST" : "0%"
+		},
+		{
+		   "id":12,
+		   "name":"Meat and edible offal, of thepoultry of heading 0105, fresh or chilled",
+		   "GST" : "0%"
+		},
+	    {
+		   "id":13,
+		   "name":"Other meat and edible meat offal, fresh or chilled",
+		   "GST" : "0%"
+		},
+		{
+		   "id":14,
+		   "name":"Pig fat, free of lean meat, and poultry fat, not rendered or otherwise extracted, fresh, chilled.",
+		   "GST" : "0%"
+		},
+		{
+		   "id":15,
+		   "name":"Fish seeds,prawn / shrimp seeds whether or not processed,cured or in frozen state",
+		   "GST" : "0%"
+		},
+	    {
+		   "id":16,
+		   "name":"Live fish",
+		   "GST" : "0%"
+		},
+		{
+		   "id":17,
+		   "name":"Fish, fresh or chilled, excluding fish fillets and other fish meat of heading",
+		   "GST" : "0%"
+		},
+	    {
+		   "id":18,
+		   "name":"Fish fillets and other fish meat (whether or not minced), fresh or chilled",
+		   "GST" : "0%"
+		},
+		{
+		   "id":19,
+		   "name":"Crustaceans, whether in shell or not, live, fresh or chilled; crustaceans, in shell, cooked by steaming or by boiling in water, chilled",
+		   "GST" : "0%"
+		},
+	    {
+		   "id":20,
+		   "name":" Molluscs, whether in shell or not,live, fresh, chilled; aquatic invertebrates other than crustaceans and molluscs, live, fresh, chilled",
+		   "GST" : "0%"
+		},
+		{
+		   "id":21,
+		   "name":"Aquatic invertebrates other than crustaceans and molluscs, live, fresh or chilled.",
+		   "GST" : "0%"
+		},
+	    {
+		   "id":22,
+		   "name":"Fresh milk and pasteurised milk, including separated milk, milk and cream, not concentrated nor containing added sugar or other sweetening matter, excluding Ultra High Temperature (UHT) milk ",
+		   "GST" : "0%"
+		},
+		{
+		   "id":23,
+		   "name":"Curd, Lassi,Butter milk",
+		   "GST" : "0%"
+		},
+	    {
+		   "id":24,
+		   "name":"Birds eggs, in shell, fresh, preserved or cooked",
+		   "GST" : "0%"
+		},
+		{
+		   "id":25,
+		   "name":"Chena or paneer other than put up in unit containers and bearing a registered brand name",
+		   "GST" : "0%"
+		},
+	    {
+		   "id":26,
+		   "name":"Natural honey, other than put up in unit container and bearing a registered brand name",
+		   "GST" : "0%"
+		},
+		{
+		   "id":27,
+		   "name":"Human hair, unworked, whether or not washed or scoured; waste of human hair",
+		   "GST" : "0%"
+		},
+	    {
+		   "id":28,
+		   "name":"Semen including frozen semen",
+		   "GST" : "0%"
+		},
+		{
+		   "id":29,
+		   "name":"Live trees and other plants bulbs, roots and the like; cut flowers and ornamental foliage",
+		   "GST" : "0%"
+		},
+		{
+		   "id":30,
+		   "name":" Potatoes, fresh or chilled.",
+		   "GST" : "0%"
+		},
+		{
+		   "id":31,
+		   "name":"Tomatoes, fresh or chilled.",
+		   "GST" : "0%"
+		},
+		{
+		   "id":32,
+		   "name":"Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled.",
+		   "GST" : "0%"
+		},
+		{
+		   "id":33,
+		   "name":"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled",
+		   "GST" : "0%"
+		},
+		{
+		   "id":34,
+		   "name":"Lettuce (Lactuca sativa) and chicory (Cichorium spp.), fresh or chilled",
+		   "GST" : "0%"
+		},
+		{
+		   "id":35,
+		   "name":"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots, fresh or chilled",
+		   "GST" : "0%"
+		},
+		{
+		   "id":36,
+		   "name":"Cucumbers and gherkins, fresh or chilled",
+		   "GST" : "0%"
+		},
+		{
+		   "id":37,
+		   "name":"Leguminous vegetables, shelled or unshelled, fresh or chilled",
+		   "GST" : "0%"
+		},
+		{
+		   "id":38,
+		   "name":"Other vegetables, fresh or chilled",
+		   "GST" : "0%"
+		},
+		{
+		   "id":39,
+		   "name":"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared",
+		   "GST" : "0%"
+		},
+		{
+		   "id":40,
+		   "name":"Dried leguminous vegetables, shelled, whether or not skinned or split",
+		   "GST" : "0%"
+		},
+		{
+		   "id":41,
+		   "name":"Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar roots and tubers with high starch or inulin content, fresh or chilled; sago pith.",
+		   "GST" : "0%"
+		},
+		{
+		   "id":42,
+		   "name":"Coconuts, fresh or dried, whether or not shelled or peeled ",
+		   "GST" : "0%"
+		},
+		{
+		   "id":43,
+		   "name":"Other nuts, fresh such as Almonds, Hazelnuts or filberts (Coryius spp.), walnuts, Chestnuts (Castanea spp.) Pistachios, Macadamia nuts, Kola nuts (Cola spp.), Areca nuts.",
+		   "GST" : "0%"
+		},
+		{
+		   "id":44,
+		   "name":"Bananas, including plantains, fresh or dried ",
+		   "GST" : "0%"
+		},
+		{
+		   "id":45,
+		   "name":"Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens, fresh.",
+		   "GST" : "0%"
+		},
+		{
+		   "id":46,
+		   "name":"Citrus fruit, such as Oranges, Mandarins (including tangerines and satsumas); clementines, wilkings and similar citrus hybrids, Grapefruit, including pomelos, Lemons (Citrus limon, Citrus limonum) and limes (Citrus aurantifolia, Citrus latifolia), fresh.",
+		   "GST" : "0%"
+		},
+		{
+		   "id":47,
+		   "name":"Grapes,fresh",
+		   "GST" : "0%"
+		},
+		{
+		   "id":48,
+		   "name":"Melons (including watermelons) and papaws (papayas), fresh.",
+		   "GST" : "0%"
+		},
+		{
+		   "id":49,
+		   "name":"Apples, pears and quinces, fresh.",
+		   "GST" : "0%"
+		},
+		{
+		   "id":50,
+		   "name":"Apricots, cherries, peaches (including nectarines), plums and sloes, fresh.",
+		   "GST" : "0%"
+		},
+		{
+		   "id":51,
+		   "name":"Other fruit such as strawberries, raspberries, blackberries, mulberries and loganberries, black, white or red currants and gooseberries, cranberries, bilberries and other fruits of the genus vaccinium, Kiwi fruit, Durians, Persimmons, Pomegranates, Tamarind, Sapota (chico), Custard-apple (ata), Bore, Lichi, fresh.",
+		   "GST" : "0%"
+		},
+		{
+		   "id":52,
+		   "name":"Peel of citrus fruit or melons (including watermelons), fresh.",
+		   "GST" : "0%"
+		},
+		{
+		   "id":53,
+		   "name":"All goods of seed quality",
+		   "GST" : "0%"
+		},
+		{
+		   "id":54,
+		   "name":"Coffee beans, not roasted.",
+		   "GST" : "0%"
+		},
+		{
+		   "id":55,
+		   "name":"Unprocessed green leaves of tea",
+		   "GST" : "0%"
+		},
+		{
+		   "id":56,
+		   "name":"Fresh ginger [09101110] and fresh turmeric [09103010] other than in processed form",
+		   "GST" : "0%"
+		},
+		{
+		   "id":57,
+		   "name":"Wheat and meslin",
+		   "GST" : "0%"
+		},
+		{
+		   "id":58,
+		   "name":"Rye",
+		   "GST" : "0%"
+		},
+		{
+		   "id":59,
+		   "name":"Barley",
+		   "GST" : "0%"
+		},
+		{
+		   "id":60,
+		   "name":"Oats",
+		   "GST" : "0%"
+		},
+		{
+		   "id":61,
+		   "name":"Maize (corn)",
+		   "GST" : "0%"
+		},
+		{
+		   "id":62,
+		   "name":"Rice",
+		   "GST" : "0%"
+		},
+		{
+		   "id":63,
+		   "name":"Grain sorghum",
+		   "GST" : "0%"
+		},
+		{
+		   "id":64,
+		   "name":"Buckwheat, millet and canary seed; other cereals such as Jawar, Bajra, Ragi",
+		   "GST" : "0%"
+		},
+		{
+		   "id":65,
+		   "name":"Flour [1101, 1102, 1105, 1106] Aata, maida, besan etc. [other than those put up in unit container and bearing a registered brand name]",
+		   "GST" : "0%"
+		},
+		{
+		   "id":66,
+		   "name":"Wheat or meslin flour",
+		   "GST" : "0%"
+		},
+		{
+		   "id":67,
+		   "name":"Cereal flours other than of wheat or meslin i.e. maize (corn) flour, Rye flour, etc",
+		   "GST" : "0%"
+		},
+		{
+		   "id":68,
+		   "name":"Cereal groats, meal and pellets, other than those put up in unit container and bearing a registered brand name",
+		   "GST" : "0%"
+		},
+		{
+		   "id":69,
+		   "name":"Flour, of potatoes",
+		   "GST" : "0%"
+		},
+		{
+		   "id":70,
+		   "name":"Flour, of the dried leguminous vegetables of heading 0713 (pulses), of sago or of roots or tubers of heading 0714 or of the products of Chapter 8 i.e. of tamarind, of singoda, mango flour,etc",
+		   "GST" : "0%"
+		},
+		{
+		   "id":71,
+		   "name":"Soya beans, whether or not broken.",
+		   "GST" : "0%"
+		},
+		{
+		   "id":72,
+		   "name":"Groundnuts, not roasted or otherwise cooked, whether or not shelled or broken",
+		   "GST" : "0%"
+		},
+		{
+		   "id":73,
+		   "name":"Linseed, whether or not broken.",
+		   "GST" : "0%"
+		},
+		{
+		   "id":74,
+		   "name":"Rape or colza seeds, whether or not broken.",
+		   "GST" : "0%"
+		},
+		{
+		   "id":75,
+		   "name":"Sunflower seeds, whether or not broken.",
+		   "GST" : "0%"
+		}
+		],
+		
+		 "GST for 5%" :[
+		
+		{
+		   "id":76,
+		   "name":"Fish, frozen, excluding fish fillets and other fish meat of heading",
+		   "GST" : "5%"
+		},
+		{
+		   "id":77,
+		   "name":"Fish fillets and other fish meat (whether or not minced), frozen",
+		   "GST" : "5%"
+		},
+		{
+		   "id":78,
+		   "name":"Fish, dried, salted or in brine; smoked fish, whether or not cooked before or during the smoking process; flours, meals and pellets of fish, fit for human consumption",
+		   "GST" : "5%"
+		},
+		{
+		   "id":79,
+		   "name":"Crustaceans, whether in shell or not, frozen, dried, salted or in brine; crustaceans, in shell, cooked by steaming or by boiling in water, frozen, dried, salted or in brine; flours, meals and pellets of crustaceans, fit for human consumption ",
+		   "GST" : "5%"
+		},
+		{
+		   "id":80,
+		   "name":"Molluscs, whether in shell or not, frozen, dried, salted or in brine; aquatic invertebrates other than crustaceans and molluscs, frozen, dried, salted or in brine; flours, meals and pellets of aquatic invertebra other than crustaceans, fit for human consumption",
+		   "GST" : "5%"
+		},
+		{
+		   "id":81,
+		   "name":"Aquatic invertebrates other than crustaceans and molluscs, frozen, dried, salted or in brine; smoked aquatic invertebrates other than crustaceans and molluscs, whether or not cooked before or during the smoking process: flours, meals and pellets of aquatic invertebrates other than crustaceans and molluscs, fit for human consumption",
+		   "GST" : "5%"
+		},
+		{
+		   "id":82,
+		   "name":"Ultra High Temperature (UHT) milk",
+		   "GST" : "5%"
+		},
+		{
+		   "id":83,
+		   "name":"Milk and cream, concentrated or containing added sugar or other sweetening matter including skimmed milk powder, milk food for babies, excluding condensed milk",
+		   "GST" : "5%"
+		},
+		{
+		   "id":84,
+		   "name":"Cream, yogurt, kephir and other fermented or acidified milk and cream, whether or not concentrated or containing added sugar or other sweetening matter or flavoured or containing added fruit, nuts or cocoa.",
+		   "GST" : "5%"
+		},
+		{
+		   "id":85,
+		   "name":"Whey, whether or not concentrated or containing added sugar or other sweetening matter; products consisting of natural milk constituents, whether or not containing added sugar or other sweetening matter, not elsewhere specified or included.",
+		   "GST" : "5%"
+		},
+		{
+		   "id":86,
+		   "name":"Chena or paneer put up in unit container and bearing a registered brand name ",
+		   "GST" : "5%"
+		},
+		{
+		   "id":87,
+		   "name":"Birds' eggs, not in shell, and egg yolks, fresh, dried, cooked by steaming or by boiling in water, moulded, frozen or otherwise preserved,whether or not containing added sugar or other sweetening matter.",
+		   "GST" : "5%"
+		},
+		{
+		   "id":88,
+		   "name":"Natural honey, put up in unit container and bearing a registered brand name.",
+		   "GST" : "5%"
+		},
+		{
+		   "id":89,
+		   "name":"Edible products of animal origin, not elsewhere specified or included.",
+		   "GST" : "5%"
+		},
+		{
+		   "id":90,
+		   "name":"Pigs', hogs' or boars' bristles and hair; badger hair and other brush making hair; waste of such bristles or hair ",
+		   "GST" : "5%"
+		},
+		{
+		   "id":91,
+		   "name":"0503 – blank in tariff",
+		   "GST" : "5%"
+		},
+		{
+		   "id":92,
+		   "name":"Guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked.",
+		   "GST" : "5%"
+		},
+		{
+		   "id":93,
+		   "name":"Skins and other parts of birds, with their feathers or down, feathers and parts of feathers (whether or not with trimmed edges) and down, not further worked than cleaned, disinfected or treated for preservation; powder and waste of feathers or parts of feathers  ",
+		   "GST" : "5%"
+		},
+		{
+		   "id":94,
+		   "name":"Bones and horn-cores, unworked, defatted, simply prepared (but not cut to shape), treated with acid or gelatinised; powder and waste of these products.",
+		   "GST" : "5%"
+		},
+		{
+		   "id":95,
+		   "name":"Ivory, tortoise-shell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and beaks, unworked or simply prepared but not cut to shape; powder and waste of these products.",
+		   "GST" : "5%"
+		},
+		{
+		   "id":96,
+		   "name":"Coral and similar materials, unworked or simply prepared but not otherwise worked; shells of molluscs, crustaceans or echinoderms and cuttle-bone, unworked or simply prepared but not cut to shape, powder and waste thereof",
+		   "GST" : "5%"
+		},
+		{
+		   "id":97,
+		   "name":"0509 – blank in tariff",
+		   "GST" : "5%"
+		},
+		{
+		   "id":98,
+		   "name":"Ambergris, castoreum, civet and musk; cantharides; bile, whether or not dried; glands and other animal products used in the preparation of pharmaceutical products, fresh, chilled, frozen or otherwise provisionally preserved.",
+		   "GST" : "5%"
+		},
+		{
+		   "id":99,
+		   "name":"Animal products not elsewhere specified or included; dead animals of Chapter 1 or 3, unfit for human consumption, other than semen including frozen semen.  ",
+		   "GST" : "5%"
+		},
+		{
+		   "id":100,
+		   "name":"Herb, bark, dry plant, dry root, commonly known as jari booti and dry flower;",
+		   "GST" : "5%"
+		}
+		],
+		
+		"GST for 12%" :[
+		{
+		   "id":101,
+		   "name":"Live horses [01012100,010129]",
+		   "GST" : "12%"
+		},
+		{
+		   "id":102,
+		   "name":"All goods in frozen state and put up in unit containers",
+		   "GST" : "12%"
+		},
+		{
+		   "id":103,
+		   "name":"Pig fat, free of lean meat, and poultry fat, not rendered or otherwise extracted, salted, in brine, dried or smoked put up in unit containers",
+		   "GST" : "12%"
+		},
+		{
+		   "id":104,
+		   "name":"Meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal put up in unit containers ",
+		   "GST" : "12%"
+		},
+		{
+		   "id":105,
+		   "name":"Butter and other fats (ghee, butter oil, etc.) and oils derived from milk; dairy spreads",
+		   "GST" : "12%"
+		},
+		{
+		   "id":106,
+		   "name":"Cheese",
+		   "GST" : "12%"
+		},
+		{
+		   "id":107,
+		   "name":"Brazil nuts and cashew nuts, fresh or dried, whether or not shelled or peeled.",
+		   "GST" : "12%"
+		},
+		{
+		   "id":108,
+		   "name":"Other nuts, dried, whether or not shelled or peeled, such as Almonds, Hazelnuts or filberts (Coryius spp.), walnuts, Chestnuts (Castanea spp.), Pistachios, Macadamia nuts, Kola nuts (Cola spp.), other than areca nuts.",
+		   "GST" : "12%"
+		},
+		{
+		   "id":109,
+		   "name":"Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens, dried",
+		   "GST" : "12%"
+		},
+		{
+		   "id":110,
+		   "name":"Grapes, dried, and raisins",
+		   "GST" : "12%"
+		},
+		{
+		   "id":111,
+		   "name":"Fruit, dried, other than that of headings 0801 to 0806; mixtures of nuts or dried fruits of Chapter 8",
+		   "GST" : "12%"
+		},
+		{
+		   "id":112,
+		   "name":"Pig fat (including lard) and poultry fat, other than that of heading 0209 or 1503.",
+		   "GST" : "12%"
+		},
+		{
+		   "id":113,
+		   "name":"Fats of bovine animals, sheep or goats, other than those of heading 1503.",
+		   "GST" : "12%"
+		},
+		{
+		   "id":114,
+		   "name":"Lard stearin, lard oil, oleo stearin, oleo-oil and tallow oil, not emulsified or mixed or otherwise prepared",
+		   "GST" : "12%"
+		},
+		{
+		   "id":115,
+		   "name":"Fats and oils and their fractions, of fish or marine mammals, whether or not refined, but not chemically modified",
+		   "GST" : "12%"
+		},
+		{
+		   "id":116,
+		   "name":"Wool grease and fatty substances derived therefrom (including lanolin",
+		   "GST" : "12%"
+		},
+		{
+		   "id":117,
+		   "name":"Other animal fats and oils and their fractions, whether or not refined, but not chemically modified",
+		   "GST" : "12%"
+		},
+		{
+		   "id":118,
+		   "name":"Animal fats and oils and their fractions, partly or wholly hydrogenated, interesterified, reesterified or elaidinised, whether or not refined, but not further prepared",
+		   "GST" : "12%"
+		},
+		{
+		   "id":119,
+		   "name":"Animal fats and oils and their fractions, boiled, oxidised, dehydrated, sulphurised, blown, polymerised by heat in vacuum or in inert gas or otherwise chemically modified, excluding those of heading 1516; inedible mixtures or preparations of Animal or vegetable fats or oils or of fractions of different fats of oils of this chapter, not elsewhere specified of included.",
+		   "GST" : "12%"
+		},
+		{
+		   "id":120,
+		   "name":"Sausages and similar products, of meat, meat offal or blood; food preparations based on these products",
+		   "GST" : "12%"
+		},
+		{
+		   "id":121,
+		   "name":"Other prepared or preserved meat, meat offal or blood.",
+		   "GST" : "12%"
+		},
+		{
+		   "id":122,
+		   "name":"Extracts and juices of meat, fish or crustaceans, molluscs or other aquatic invertebrates",
+		   "GST" : "12%"
+		},
+		{
+		   "id":123,
+		   "name":"Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs",
+		   "GST" : "12%"
+		},
+		{
+		   "id":124,
+		   "name":"Crustaceans, molluscs and other aquatic invertebrates prepared or preserved.",
+		   "GST" : "12%"
+		},
+		{
+		   "id":125,
+		   "name":"Fruit juices (including grape must) and vegetable juices, unfermented and not containing added spirit, whether or not containing added sugar or other sweetening matter.] ",
+		   "GST" : "12%"
+		}
+		],
+		
+		"GST for 18%" :[
+		{
+		   "id":126,
+		   "name":"Condensed milk [04029110, 04029920]",
+		   "GST" : "18%"
+		},
+		{
+		   "id":127,
+		   "name":"Vegetable saps and extracts; pectic substances, pectinates and pectates; agar-agar and other mucilages and thickeners, whether or not modified, derived from vegetable products; other than Guar meal or guar gum refined split",
+		   "GST" : "18%"
+		},
+		{
+		   "id":128,
+		   "name":"Indian katha",
+		   "GST" : "18%"
+		},
+		{
+		   "id":129,
+		   "name":"Margarine, Linoxyn [solidified linseed oil]; edible mixtures or preparations of animal or vegetable fats or oils or of fractions of different fats or oils of this Chapter, other than edible fats or oils or their fractions of heading",
+		   "GST" : "18%"
+		},{
+		   "id":130,
+		   "name":"Glycerol, crude; glycerol waters and glycerol lyes ",
+		   "GST" : "18%"
+		},
+		{
+		   "id":131,
+		   "name":"Vegetable waxes, etc.",
+		   "GST" : "18%"
+		},
+		{
+		   "id":132,
+		   "name":"Degras, residues resulting from the treatment of fatty substances or animal or vegetable waxes",
+		   "GST" : "18%"
+		},
+		{
+		   "id":133,
+		   "name":"Refined sugar containing added flavouring or colouring matter, sugar cubes ",
+		   "GST" : "18%"
+		},
+		{
+		   "id":134,
+		   "name":"All goods falling under 1702 [lactose, maple syrup, glucose, dextrose, fructose, invert sugar, artificial honey, etc.], other than palmyra sugar",
+		   "GST" : "18%"
+		},
+		{
+		   "id":135,
+		   "name":"Sugar confectionery (excluding white chocolate and bubble / chewing gum)",
+		   "GST" : "18%"
+		},
+		{
+		   "id":136,
+		   "name":"Preparations for infant use, put up for retail sale",
+		   "GST" : "18%"
+		},
+		{
+		   "id":137,
+		   "name":"Pasta, whether or not cooked or stuffed (with meat or other substances) or otherwise prepared, such as spaghetti, macaroni, noodles, lasagne, gnocchi, ravioli, cannelloni; couscous, whether or not prepared",
+		   "GST" : "18%"
+		},{
+		   "id":138,
+		   "name":"Corn flakes, bulgar wheat, prepared foods obtained from cereal flakes ",
+		   "GST" : "18%"
+		},
+		{
+		   "id":139,
+		   "name":"Waffles and wafers other than coated with chocolate or containing chocolate",
+		   "GST" : "18%"
+		},
+		{
+		   "id":140,
+		   "name":"Pastries and cakes",
+		   "GST" : "18%"
+		},
+		{
+		   "id":141,
+		   "name":"Vegetables, fruit, nuts and other edible parts of plants, prepared or preserved by vinegar or acetic acid",
+		   "GST" : "18%"
+		},
+		{
+		   "id":142,
+		   "name":"Tomatoes prepared or preserved otherwise than by vinegar or acetic acid",
+		   "GST" : "18%"
+		},
+		{
+		   "id":143,
+		   "name":"Mushrooms and truffles, prepared or preserved otherwise than by vinegar or acetic acid.",
+		   "GST" : "18%"
+		},
+		{
+		   "id":144,
+		   "name":"Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, frozen, other than products of heading 2006",
+		   "GST" : "18%"
+		},
+		{
+		   "id":145,
+		   "name":"2005 Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading 2006.",
+		   "GST" : "18%"
+		},
+		{
+		   "id":146,
+		   "name":"Vegetables, fruit, nuts, fruit-peel and other parts of plants, preserved by sugar (drained, glacé or crystallised).",
+		   "GST" : "18%"
+		},
+		{
+		   "id":147,
+		   "name":"Jams, fruit jellies, marmalades, fruit or nut purée and fruit or nut pastes, obtained by cooking, whether or not containing added sugar or other sweetening matter",
+		   "GST" : "18%"
+		},
+		{
+		   "id":148,
+		   "name":"Fruit, nuts and other edible parts of plants, otherwise prepared or preserved, whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included; such as Ground-nuts, Cashew nut, roasted, salted or roasted and salted, Other roasted nuts and seeds, squash of Mango, Lemon, Orange, Pineapple or other fruits",
+		   "GST" : "18%"
+		},
+		{
+		   "id":149,
+		   "name":"2101 20 Extracts, essences and concentrates of tea or mate, and preparations with a basis of these extracts, essences or concentrates or with a basis of tea or mate (i.e. instant tea, quick brewing black tea, tea aroma, etc.)",
+		   "GST" : "18%"
+		},
+		{
+		   "id":150,
+		   "name":"Sauces and preparations therefor",
+		   "GST" : "18%"
+		}
+		],
+		"GST for 28%" :[
+		{
+		   "id":151,
+		   "name":"Molasses ",
+		   "GST" : "28%"
+		},
+		{
+		   "id":152,
+		   "name":"Chewing gum / bubble gum and white chocolate, not containing cocoa ",
+		   "GST" : "28%"
+		},
+		{
+		   "id":153,
+		   "name":"Cocoa butter, fat and oil ",
+		   "GST" : "28%"
+		},
+		{
+		   "id":154,
+		   "name":"Cocoa powder, not containing added sugar or sweetening matter [1805] ",
+		   "GST" : "28%"
+		},
+		{
+		   "id":155,
+		   "name":"Chocolates and other food preparations containing cocoa",
+		   "GST" : "28%"
+		},
+		{
+		   "id":156,
+		   "name":"Malt extract; food preparations of flour, groats, meal, starch or malt extract, not containing cocoa or containing less than 40% by weight of cocoa calculated on a totally defatted basis, not elsewhere specified or included; food preparations of goods of heading 0401 to 0404, not containing cocoa or containing less than 5% by weight of cocoa calculated on a totally defatted basis not elsewhere specified or included, other than preparations for infant use put up for retail sale and mixes and doughs for the preparation of bakers’ wares",
+		   "GST" : "28%"
+		},
+		{
+		   "id":157,
+		   "name":"Waffles and wafers coated with chocolate or containing chocolate [1905 32]",
+		   "GST" : "28%"
+		},
+		{
+		   "id":158,
+		   "name":"Extracts, essences and concentrates of coffee, and preparations with a basis of these extracts, essences or concentrates or with a basis of coffee (i.e. instant coffee, coffee aroma, etc.) [2101] ",
+		   "GST" : "28%"
+		},
+		{
+		   "id":159,
+		   "name":"Mixed condiments and mixed seasonings; mustard flour and meal and prepared mustard, other sauces and prearations therefor [2103]",
+		   "GST" : "28%"
+		},
+		{
+		   "id":160,
+		   "name":"Food preparations not elsewhere specified or included i.e. Protein concentrates and textured protein substances, Sugarsyrups containing added flavouring or colouring matter, not elsewhere specified or included; lactose syrup; glucose syrup and malto dextrine syrup, Compound preparations for making non-alcoholic beverages, Food flavouring material, Churna for pan, Custard powder ",
+		   "GST" : "28%"
+		},
+		{
+		   "id":161,
+		   "name":"Pan masala",
+		   "GST" : "28%"
+		},
+		{
+		   "id":162,
+		   "name":"Other non-alcoholic beverages [2202 90 90]",
+		   "GST" : "28%"
+		},
+		{
+		   "id":163,
+		   "name":"Aerated waters, containing added sugar or other sweetening matter or flavoured [2202 10] ",
+		   "GST" : "28%"
+		},
+		{
+		   "id":164,
+		   "name":"All goods not specified elsewhere, other than biris.",
+		   "GST" : "28%"
+		},
+		{
+		   "id":165,
+		   "name":"Marble and travertine, other than blocks [2515 12 20, 2515 12 90]",
+		   "GST" : "28%"
+		},
+		{
+		   "id":166,
+		   "name":"Granite, other than blocks [2516]",
+		   "GST" : "28%"
+		},
+		{
+		   "id":167,
+		   "name":"Portland cement, aluminous cement, slag cement, super sulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+		   "GST" : "28%"
+		},
+		{
+		   "id":168,
+		   "name":"Avgas",
+		   "GST" : "28%"
+		},
+		{
+		   "id":169,
+		   "name":"Paints and varnishes (including enamels and lacquers) based on synthetic polymers or chemically modified natural polymers [3208, 3209]",
+		   "GST" : "28%"
+		},
+		{
+		   "id":170,
+		   "name":"Other paints and varnishes (including enamels, lacquers and distempers); prepared water pigments of a kind used for finishing leather [3210]",
+		   "GST" : "28%"
+		},
+		{
+		   "id":171,
+		   "name":"Artists’, students’ or signboard painters’ colours, modifying tints, amusement colours and the like, in tablets, tubes, jars, bottles, pans or in similar forms or packings ",
+		   "GST" : "28%"
+		},
+		{
+		   "id":172,
+		   "name":"Glaziers’ putty, grafting putty, resin cements, caulking compounds and other mastics; painters’ fillings; nonrefractory surfacing preparations for facades, indoor walls, floors, ceilings or the like [3214]",
+		   "GST" : "28%"
+		},
+		{
+		   "id":173,
+		   "name":"Perfumes and toilet waters.",
+		   "GST" : "28%"
+		},
+		{
+		   "id":174,
+		   "name":"Beauty or makeup preparations and preparations for the care of the skin (other than medicaments), including sunscreen or sun tan preparations; manicure or pedicure preparations.",
+		   "GST" : "28%"
+		},
+		{
+		   "id":175,
+		   "name":"Preparations for use on the hair such as Shampoos, Hair lacquers, Hair cream, Hair dyes (natural, herbal or synthetic) [except Hair oil -3305 9011, 3305 90 19]",
+		   "GST" : "28%"
+		},
+		{
+		   "id":176,
+		   "name":"3306 Preparations for oral or dental hygiene, including and powders; yarn used to clean between the teeth (dental floss), in individual retail packages [except dentifrices – Toothpaste - 3306 10 20] ",
+		   "GST" : "28%"
+		},
+		{
+		   "id":177,
+		   "name":"Pre-shave, shaving or after-shave preparations, personal deodorants, bath preparations, depilatories and other perfumery, cosmetic or toilet preparations, not elsewhere specified or included; prepared room deodorisers, whether or not perfumed or having disinfectant properties; such as Pre-shave, shaving or after-shave Preparations, Shaving cream, Personal deodorants and antiperspirants.",
+		   "GST" : "28%"
+		},
+		{
+		   "id":178,
+		   "name":"Organic surface-active products and preparations for washing the skin, in the form of liquid or cream and put up for retail sale, whether or not containing soap; paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent",
+		   "GST" : "28%"
+		},
+		{
+		   "id":179,
+		   "name":" Organic surfaceactive agents (other than soap); surfaceactive preparations, washing preparations (including auxiliary washing preparations) and cleaning preparations, whether or not containing soap, other than those of heading 3401 ",
+		   "GST" : "28%"
+		},
+		{
+		   "id":180,
+		   "name":"Lubricating preparations (including cutting-oil preparations, bolt or nut release preparations, anti-rust or anti-corrosion preparations and mould release preparations, based on lubricants) and preparations of a kind used for the oil or grease treatment of textile materials, leather, furskins or other materials, but excluding preparations containing, as basic constituents, 70% or more by weight of petroleum oils or of oils obtained from bituminous minerals ",
+		   "GST" : "28%"
+		}
+		
+	]  
+	
+	
+	
+	
+}
